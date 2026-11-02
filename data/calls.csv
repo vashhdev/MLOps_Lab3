@@ -1,0 +1,156 @@
+text,label
+"my father collapsed and isn't responding",urgent
+"not urgent but my chest has felt tight since yesterday",urgent
+"my wife is having trouble breathing and her lips are turning blue",urgent
+"Hi, I think I'm having a heart attack. My left arm is numb and my chest hurts",urgent
+"baby has a fever of 104 and wont wake up properly",urgent
+"my mom's face is drooping on one side and her speech is slurred",urgent
+"I cut my hand with a kitchen knife and it won't stop bleeding, it's soaking through the towel",urgent
+"my son is having a seizure right now what do I do",urgent
+"I took way too many of my sleeping pills and I feel really dizzy",urgent
+"sorry to bother you, I don't want to make a fuss but I've been thinking about ending my life",urgent
+"got stung by a bee and now my throat feels like its closing up",urgent
+"my husband fell off a ladder and hit his head, he's confused and throwing up",urgent
+"im 30 weeks pregnant and bleeding heavily",urgent
+"chest pain going up into my jaw, sweating a lot, started about 20 min ago",urgent
+"my daughter swallowed a button battery about ten minutes ago",urgent
+"Quick question, my lips and tongue are swelling after the new antibiotic, is that normal? Also kind of hard to swallow",urgent
+"my grandfather's blood sugar is 38 and he's sweaty and not making sense",urgent
+"cant breathe, my asthma inhaler isnt working",urgent
+"I was in a car accident and my neck hurts and I can't feel my fingers",urgent
+"my toddler got into the cleaning cupboard and drank some bleach",urgent
+"worst headache of my life, came on suddenly like a thunderclap and my vision is blurry",urgent
+"my son swallowed some of grandma's pills, he seems fine right now but we don't know how many",urgent
+"Severe stomach pain on the lower right side, high fever, and I can't stand up straight",urgent
+"my newborn is 3 weeks old and has a temperature of 101",urgent
+"I'm coughing up blood",urgent
+"my dad is on blood thinners and fell, there's a big lump on his head and he's very sleepy",urgent
+"pretty sure I'm fine but my heart has been racing at like 180 for the past hour and I feel faint",urgent
+"I just found my roommate unconscious, there's an empty pill bottle next to her",urgent
+"my leg is swollen, red and hot after my long flight and now I'm short of breath",urgent
+"Hello, I'm calling because my mother suddenly can't move her right arm and she seems confused",urgent
+"help my kid is choking",urgent
+"burned my arm badly with boiling water, the skin is peeling off and it's white in the middle",urgent
+"high fever, stiff neck and a rash that doesn't fade when I press a glass on it",urgent
+"I'm diabetic, my sugar meter just says HI and I can't stop vomiting",urgent
+"I had surgery 4 days ago and the wound is leaking pus and I'm shaking with chills",urgent
+"my husband says he's going to hurt himself and there's a gun in the house",urgent
+"my baby's lips look bluish and she's breathing really fast",urgent
+"Its probably nothing but I passed out twice this morning",urgent
+"there's a lot of blood in my vomit and I feel very weak",urgent
+"allergic reaction, face swelling up, hives everywhere, already used my epipen",urgent
+"my wife is 8 months pregnant and has a terrible headache and is seeing spots",urgent
+"my elderly neighbor fell and can't get up, her hip looks twisted",urgent
+"I suddenly lost the vision in one eye about 15 minutes ago",urgent
+"I feel like I'm going to pass out, my chest is pounding and my left arm tingles",urgent
+"my son was hit by a car on his bike, he's awake but his leg is bent the wrong way",urgent
+"I accidentally took my insulin twice and now I'm getting shaky and confused",urgent
+"sorry if this is silly but my chest feels heavy and tight when I walk up the stairs and it isn't going away",urgent
+"My father is breathing very slowly and we can't wake him up after his new pain medication",urgent
+"lots of blood in my stool and I get dizzy when I stand up",urgent
+"he's been having a seizure for more than five minutes and it won't stop",urgent
+"my daughter has severe belly pain and keeps vomiting green stuff",urgent
+"I need to refill my blood pressure prescription",normal
+"can I get a refill on my metformin? I have about a week left",normal
+"I'd like to schedule a follow up appointment with my cardiologist",normal
+"I've had a sore throat for three days, can I see someone this week?",normal
+"I need to reschedule my appointment on Thursday",normal
+"when will my blood test results be back?",normal
+"my rash from last week still hasn't gone away, can I get an appointment",normal
+"calling to get a referral to a dermatologist",normal
+"I've been having mild headaches for a few days, nothing severe, just want to get checked",normal
+"my son has an earache and a low fever, can the doctor see him tomorrow",normal
+"need to book my annual physical",normal
+"the pharmacy says they never got my prescription, can you resend it",normal
+"the new medication is making me a bit nauseous, should I keep taking it?",normal
+"hi, i twisted my ankle playing soccer yesterday, its swollen but i can walk on it",normal
+"I would like to discuss my cholesterol results with the doctor",normal
+"could someone call me back about my MRI results",normal
+"I need a doctor's note for work, I was sick on monday",normal
+"my daughter needs her vaccines before school starts",normal
+"I've had a cough for about two weeks, no fever, it's just annoying",normal
+"Is it possible to switch my appointment to a telehealth visit?",normal
+"I think I have a UTI, it burns when I pee, can I be seen today or tomorrow",normal
+"Need a refill of my inhaler, I'm fine but running low",normal
+"I lost my inhaler and I'm totally fine but I need a new one before my trip next week",normal
+"my dad had a stroke last year and needs his follow-up booked",normal
+"when will my chest x-ray results be ready",normal
+"I'd like to schedule a flu shot",normal
+"My back has been sore since I moved house, can I see someone about it",normal
+"can I get my thyroid medication dose checked, I've been feeling tired",normal
+"calling about the prior authorization for my MRI",normal
+"I need to cancel my appointment and book a new one next month",normal
+"I want to start birth control, who do I talk to",normal
+"my eczema is flaring up again and the cream ran out",normal
+"I got a tick bite while hiking two days ago, should I come in?",normal
+"can I get a referral to physical therapy for my knee",normal
+"I missed my appointment this morning, can I rebook",normal
+"my blood pressure readings at home have been a bit high, around 145/90, what should I do",normal
+"been feeling down lately and would like to talk to someone about counseling",normal
+"My toddler has had diarrhea for two days but he's drinking fine and playing",normal
+"need a refill on my antidepressant, the pharmacy needs authorization",normal
+"could the nurse call me about my wound dressing, it looks okay but I have some questions",normal
+"pink eye I think, both eyes itchy and crusty in the morning",normal
+"Can I get my stitches removed this week?",normal
+"I'm having side effects from the statin, muscle aches, want to talk to the doc",normal
+"requesting a callback from the nurse about my child's allergy test",normal
+"hi, i need my prescription transferred to a different pharmacy",normal
+"this is an emergency!!! I need to change my appointment time",normal
+"mild fever and body aches since yesterday, probably the flu, do I need to come in",normal
+"I need a prenatal appointment, I just found out I'm pregnant",normal
+"my mole looks a bit different than before and I'd like to get it checked",normal
+"I'd like a follow up about my sleep apnea machine, the mask is uncomfortable",normal
+"Urgent request: please renew my blood pressure meds before Friday",normal
+"my knee has been clicking and aching for a month, can I book with sports medicine",normal
+"what are your office hours on Saturday",low
+"where do I park when I come to the clinic",low
+"do you take Medicaid",low
+"what's the fax number for the billing department",low
+"how do I reset my patient portal password",low
+"URGENT: please call me back about my bill",low
+"what number do I call if it's an emergency after hours",low
+"Is there a fee for parking if I'm visiting someone in the ER?",low
+"are you open on thanksgiving",low
+"I'd like a copy of my medical records sent to my new doctor",low
+"can I pay my bill over the phone",low
+"what's the address of your downtown location",low
+"Do you have wheelchair accessible entrances?",low
+"how much does a flu shot cost without insurance",low
+"I want to update my mailing address on file",low
+"is there a pharmacy in the building",low
+"hi just wondering if you have Spanish speaking staff",low
+"Do I need to bring my insurance card to every visit?",low
+"I got a survey email from you guys, is it legit?",low
+"what time does the lab open for walk ins",low
+"can you tell me which bus stops near the hospital",low
+"I need an itemized receipt from my last visit for my taxes",low
+"my insurance changed, how do I update it",low
+"who do I talk to about a billing error",low
+"Is the cafeteria open to visitors",low
+"what are the visiting hours for the maternity ward",low
+"How do I sign up for the patient portal?",low
+"does the clinic have free wifi",low
+"are any of your doctors accepting new patients",low
+"I'd like to leave a compliment for the nurse who helped me last week",low
+"can I bring my dog to my appointment, he's a service animal",low
+"hey whats the email for HR, I want to apply for a job",low
+"do you offer payment plans",low
+"not an emergency at all, just want to know if you validate parking",low
+"what's the difference between urgent care and the ER, just curious",low
+"how long are the wait times usually in the morning",low
+"please remove me from your mailing list",low
+"Can I get a letter confirming my vaccination dates for travel",low
+"where's the closest entrance to the radiology department",low
+"hi there, I'm calling to confirm your address for a delivery",low
+"how do I file a complaint",low
+"Do you have Saturday hours at the pediatric clinic?",low
+"What languages are your interpreters available in",low
+"is there a charge for copying medical records",low
+"I keep getting calls from your billing office asking for someone who doesnt live here",low
+"what's your NPI number? my insurance company is asking",low
+"Can you send me the forms to fill out before my first visit",low
+"are masks still required in the waiting room",low
+"Hi, do you have a lost and found? I think I left my umbrella there yesterday",low
+"hi this is very important, I need to know what time you close today",low
+"I need help asap, my portal login isnt working",low
+"Good afternoon. Could you please confirm whether your Elm Street office is open on public holidays?",low
